@@ -14,6 +14,5 @@ This project is a PHP-based tool to help estimate construction costs and manage 
 - Bootstrap
 - JavaScript
 
-## Author
-Omkar Mogal
+
 
