@@ -1,6 +1,7 @@
 # Construction Estimator
 
-This project is a PHP-based tool to help estimate construction costs and manage related data. Built as part of a portfolio or academic project.
+This project is a PHP-based tool to help estimate construction costs in building or home  and manage related data.
+Built as part of a portfolio or academic project.
 
 ## Features
 - Login & user system
